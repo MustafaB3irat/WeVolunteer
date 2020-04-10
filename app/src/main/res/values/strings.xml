@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Volunteer Dictionary</string>
+    <string name="volunteer_name">Volunteer Name</string>
+    <string name="volunteer_DOB">Volunteer Date of Birth</string>
+    <string name="volunteer_work">Volunteer Work</string>
+    <string name="volunteer_phone">Volunteer Phone</string>
+    <string name="volunteer_communityWorkHours">Work Hours</string>
+    <string name="volunteer_country">Volunteer Country</string>
+    <string name="volunteer_gender">Volunteer Gender</string>
+    <string name="add_volunteer">Add Volunteer</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="is_active">Is Active ?</string>
+    <string name="not_active">Not Active!</string>
+    <string name="active">Active!</string>
+    <string name="you_can_scroll_this_text_to_view_answer">You can scroll this text to view full answer!</string>
+    <string name="loading_data">loading Data</string>
+
+
+    <string-array name="countries">
+        <item>Palestine</item>
+        <item>Jordan</item>
+        <item>Egypt</item>
+    </string-array>
+</resources>
